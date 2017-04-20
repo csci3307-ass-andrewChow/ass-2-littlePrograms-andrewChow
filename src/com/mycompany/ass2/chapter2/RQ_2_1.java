@@ -4,6 +4,11 @@
 
 package com.mycompany.ass2.chapter2;
 
+/**
+ * 
+ * @author efaxb
+ *
+ */
 public class RQ_2_1 
 {
 	public static void main(String[]args)
